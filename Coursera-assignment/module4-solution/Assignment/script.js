@@ -38,8 +38,8 @@ WARNING!!! WARNING!!!
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 (function () {
 
-  var names = ["Shubhi", "Jasmine", "Jen", "Jason", "Priyanka", "Frank", "Larry", 
-  "Willie", "Googi", "Jim"];
+  var names = ["Vijay", "Raghuwanshi", "Mamta", "Ajay", "Priyanka", "Frank", "Jay", 
+  "John", "Beebon", "Jim"];
 
 
   
